@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cyhboy
 - 👀 I’m interested in vba / python / javascript / markdown / docker / kubernetes
 - 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on 最近在学 javascript, nodejs, chrome extension
+- 📫 How to reach me via my tiktok: wowoba1979
 
 <!---
 cyhboy/cyhboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 0. 系统学习VBA
 1. 代码分层
-2. 复杂markdown文档生成
+2. 复杂markdown文档生成 (tried)
 3. 流程化github
 4. 跨平台 （暂时没有好的想法）
