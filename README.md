@@ -27,5 +27,5 @@ You can click the Preview link to take a look at your changes.
 4. 跨平台 （暂时没有好的想法）
    本着不折腾的原则  支持一下国产是好的  可是我本身也没有什么机会用macOS/linux  先这样吧  散了吧
    
-ytcheck&&hcs是同一个东西  chrome extension v3 有一些反人类的限制  本来不想v2的  强迫症患者终于写完之后终于受不了了  于是v2了一下  由于v2结构上也简单许多  轻松改了一些bug
-ytcheck(youtube check)&&hcs(health check system) 是一个管理下载视频的extension  迟点录个视频放上来  git到cyhboy这个repo里  完美
+###ytcheck&&hcs是同一个东西  chrome extension v3 有一些反人类的限制  本来不想v2的  强迫症患者终于写完之后终于受不了了  于是v2了一下  由于v2结构上也简单许多  轻松改了一些bug
+###ytcheck(youtube check)&&hcs(health check system) 是一个管理下载视频的extension  迟点录个视频放上来  git到cyhboy这个repo里  完美
