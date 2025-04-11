@@ -30,3 +30,6 @@ You can click the Preview link to take a look at your changes.
 ### ytcheck&&hcs是同一个东西  chrome extension v3 有一些反人类的限制  本来不想v2的  强迫症患者终于写完之后终于受不了了  于是v2了一下  由于v2结构上也简单许多  轻松改了一些bug
 
 ### ytcheck(youtube check)&&hcs(health check system) 是一个管理下载视频的extension  迟点录个视频放上来  git到cyhboy这个repo里  完美
+
+# <red>Sponsor me by below linkage, if you like any project of mine, and need to provide support. thanks. 
+# <green>https://ifdian.net/a/skymoon
