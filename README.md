@@ -23,5 +23,9 @@ You can click the Preview link to take a look at your changes.
 #### yt-dlp音视频下载及归档系统
 #### discuz数据索引快速翻页系统
 
+#### 主页网站定义系统
+#### 主页markdown文档持续更新系统
+#### 词云展示及学习系统
+
 
 
