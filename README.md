@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on javascript, nodejs, chrome extension
 - 📫 How to reach me --> via my email: cyhboy@gmail.com
 
+Good at python
+Good at javascript
+Good at Java
+Good at VBS / VBA
+Good at Automation
+Good at Devops
+
 <!---
 cyhboy/cyhboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
