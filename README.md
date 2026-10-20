@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 #### 油管数据索引
 #### 比利比利数据索引
 #### github数据索引
+#### zlib数据索引
+#### cooking数据索引 (coming soon)
 #### 电影资料数据索引 (considering)
 #### 音乐资料数据索引
 #### 日语学习资料数据索引 :wink:
@@ -31,11 +33,22 @@ You can click the Preview link to take a look at your changes.
 #### yt-dlp音视频下载及归档系统
 #### discuz数据索引及快速翻页系统
 
+#### 会员注册支付系统
+#### 运维可视化系统
+#### 运维自动化系统
+#### 运维审计系统 (considering)
+
+#### 互联网大数据阅读框架 (持续完善中)
+#### 全媒体感知系统 (considering)
+
 #### 词云展示及学习系统
 #### 主页网站定义系统 (ongoing)
 #### 主页markdown文档持续更新系统 (ongoing)
 
 #### tkdy下载器 (pending --> 版本废弃 --> resolutioning)
+
+#### tkdy数据索引 (solutioning)
+#### boss数据索引 (solutioning)
 
 
 
