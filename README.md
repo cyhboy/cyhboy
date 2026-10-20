@@ -2,7 +2,7 @@
 - 👀 I’m interested in vba / python / javascript / markdown / docker / kubernetes
 - 🌱 I’m currently learning a lot 学无止境  打算开源一个tkdy下载器  走过路过多多支持
 - 💞️ I’m looking to collaborate on javascript, nodejs, chrome extension
-- 📫 How to reach me --> via my email: cyhboy@gmail.com
+- 📫 How to reach me --> via my email: cyhboy@hotmail.com
 
 Good at python
 Good at javascript
