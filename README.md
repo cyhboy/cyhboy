@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 #### boss数据索引 (solutioning)
 
 
-<img width="852" height="1010" alt="image" src="https://github.com/user-attachments/assets/f6059786-ba69-479c-bef3-38dab0b1d50e" />
+<img width="426" height="505" alt="image" src="https://github.com/user-attachments/assets/f6059786-ba69-479c-bef3-38dab0b1d50e" />
 
 
 
