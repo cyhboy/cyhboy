@@ -22,9 +22,10 @@ You can click the Preview link to take a look at your changes.
 #### 油管数据索引
 #### 比利比利数据索引
 #### github数据索引
-#### 电影资料数据索引
+#### 电影资料数据索引 (considering)
 #### 音乐资料数据索引
-#### 日语学习资料数据索引
+#### 日语学习资料数据索引 :wink:
+#### 通用学习资料数据索引
 #### VBA程序索引归档及子项目生成器
 
 #### yt-dlp音视频下载及归档系统
@@ -34,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 #### 主页网站定义系统 (ongoing)
 #### 主页markdown文档持续更新系统 (ongoing)
 
-#### tkdy下载器 (pending)
+#### tkdy下载器 (pending --> 版本废弃 --> resolutioning)
 
 
 
